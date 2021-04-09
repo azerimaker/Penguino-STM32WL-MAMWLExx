@@ -5,9 +5,9 @@ MAMWLExx is a very tiny low power radio module, which can be easily integrated i
 
 
 
-![Penguino-STM32WL-LoRa-E5-back](docs\Penguino-STM32WL-M.png)
+![Penguino-MAMWLExx](docs\Penguino-STM32WL-M.png)
 
-![Penguino-STM32WL-LoRa-E5-back](docs\Penguino-STM32WL-M-c.png)
+![Penguino-MAMWLExx-c](docs\Penguino-STM32WL-M-c.png)
 
 
 ### Specs (SoC): 
@@ -21,7 +21,7 @@ MAMWLExx is a very tiny low power radio module, which can be easily integrated i
 ### Specs ([MAMWLExx module](](https://www.hackster.io/move-solutions/mamwlexx-9f79eb))): 
 
 
-![Penguino-STM32WL-LoRa-E5-back](docs\mamwlexxx.jpg)
+![MAMWLExx](docs\mamwlexxx.jpg)
 
 Board requirements:
 - 4 layers, 1.6mm thickness
